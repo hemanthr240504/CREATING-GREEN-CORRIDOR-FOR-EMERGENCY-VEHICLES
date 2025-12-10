@@ -399,8 +399,17 @@ Contributions are welcome! Here's how you can help:
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is released under a **Self License** for academic and personal use only.
 
+### ⚠️ Important Notes
+- The trained model file **`best.pt` is not included** in this repository due to size and distribution restrictions.
+- As a result, the project **may not work out-of-the-box** without retraining the model.
+- To use the full functionality, please **train your own model** using the provided training scripts.
+
+### ⭐ Support the Project
+If you find this project useful, please consider:
+- **Forking** the repository
+- **Starring** it on GitHub
 ---
 
 **⭐ Star this repository if you find it helpful!**
