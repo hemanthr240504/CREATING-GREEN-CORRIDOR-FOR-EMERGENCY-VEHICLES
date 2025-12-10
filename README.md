@@ -3,7 +3,6 @@
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![Flask](https://img.shields.io/badge/Flask-2.0%2B-green)
 ![YOLOv8](https://img.shields.io/badge/YOLOv8-Ultralytics-orange)
-![License](https://img.shields.io/badge/License-MIT-yellow)
 
 An intelligent real-time emergency vehicle detection system that automatically creates green corridors for ambulances using computer vision and traffic signal control simulation.
 
@@ -57,6 +56,10 @@ The Green Corridor Emergency Vehicle Detection System uses state-of-the-art comp
 - Real-time WebSocket communication
 
 ## 🎬 Demo
+
+## 🖼️ Detection Output Preview
+
+![Detected Ambulance](static/detected_images/detected_d083bca1-98d1-4e5e-9aa5-37928aad5876_WhatsApp_Image_2025-12-05_at_10.18.51_PM.jpeg)
 
 ### Live Detection Interface
 
