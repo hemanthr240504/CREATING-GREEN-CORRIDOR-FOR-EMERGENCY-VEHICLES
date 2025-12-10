@@ -57,7 +57,7 @@ The Green Corridor Emergency Vehicle Detection System uses state-of-the-art comp
 
 ## 🎬 Demo
 
-## 🖼️ Detection Output Preview
+### 🖼️ Detection Output Preview
 
 ![Detected Ambulance](static/detected_images/detected_d083bca1-98d1-4e5e-9aa5-37928aad5876_WhatsApp_Image_2025-12-05_at_10.18.51_PM.jpeg)
 
