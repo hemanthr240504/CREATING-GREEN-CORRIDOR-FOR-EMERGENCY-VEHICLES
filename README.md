@@ -118,7 +118,7 @@ requests==2.31+
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/green-corridor-system.git
+git clone https://github.com/prajwal032004/green-corridor-system.git
 cd green-corridor-system
 ```
 
